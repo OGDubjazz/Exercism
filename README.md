@@ -1,4 +1,4 @@
-#Exercism Ruby Track
+# Exercism Ruby Track
 
 Build Status Join the chat at https://gitter.im/exercism/ruby
 
